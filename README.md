@@ -1,4 +1,4 @@
-# Hello World!, I'm kemal
+# hello world!, i'm kemal
 
 i'm junior<br>currently working on basic projects<br>currently learning typescript & react
 
